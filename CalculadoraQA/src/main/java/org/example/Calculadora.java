@@ -30,8 +30,8 @@ public class Calculadora {
     
      /**
      *
-     * @param n1 primeiro numero inteiro que sera usado na multiplicacao
-     * @param n2 segundo numero inteiro que sera usado na multiplicacao
+     * @param n1 primeiro numero double que sera usado na multiplicacao
+     * @param n2 segundo numero double que sera usado na multiplicacao
      * @return resultado de n1 multiplicado por n2
      */
     public double multiplicar(double num1, double num2) {
@@ -40,8 +40,8 @@ public class Calculadora {
     
     /**
      *
-     * @param n1 primeiro numero inteiro que sera usado na divisao
-     * @param n2 segundo numero inteiro que sera usado na divisao
+     * @param n1 primeiro numero double que sera usado na divisao
+     * @param n2 segundo numero double que sera usado na divisao
      * @return resultado de n1 dividido por n2
      */
     public double dividir(double num1, double num2) {
