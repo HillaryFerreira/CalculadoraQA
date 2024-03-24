@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/marco/ArkvTeste/CalculadoraQA/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculadoraQA 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CalculadoraQA 1.0-SNAPSHOT API'
+org.example
+/home/marco/ArkvTeste/CalculadoraQA/src/main/java = 1710897019000
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/help-doc.html = 1711250540125
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/jquery-ui.overrides.css = 1711250540141
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/tag-search-index.js = 1711250540101
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/type-search-index.js = 1711250540101
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/script.js = 1711250540129
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/element-list = 1711250540045
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/index.html = 1711250540113
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/member-search-index.js = 1711250540101
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/index-all.html = 1711250540113
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/allclasses-index.html = 1711250540097
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/package-search-index.js = 1711250540101
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/module-search-index.js = 1711250540101
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/overview-tree.html = 1711250540077
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/search.js = 1711250540133
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/allpackages-index.html = 1711250540097
+/home/marco/ArkvTeste/CalculadoraQA/target/site/apidocs/stylesheet.css = 1711250540129
