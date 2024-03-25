@@ -1,4 +1,4 @@
- <h1>CalculadoraQA V1</h1>
+ <h1>CalculadoraQA</h1>
 
   <h2>Descrição:</h2>
   <p>CalculadoraQA é um projeto de calculadora básica desenvolvido para realizar operações aritméticas básicas como somar, dividir, multiplicar e subtrair. O projeto consiste em duas branches: "main" e "CalculadoraJUnitTest". A branch "main" contém a base de código principal juntamente com testes de unidade Unity para garantir a funcionalidade da calculadora. O branch "CalculadoraJUnitTest" foca especificamente em testes JUnit para validar a funcionalidade da calculadora.</p>
@@ -37,3 +37,7 @@
     <li>Crie um pull request para revisão e mesclagem no branch principal.</li>
   </ol>
 <p>Para qualquer dúvida ou sugestão sobre o projeto, entre em contato pelo email caritahillary@gmail.com </p>
+
+<h2></h2>
+<p>Versão 1</p>
+<p>Autora: Hillary Ferreira, RA: 223947</p>
